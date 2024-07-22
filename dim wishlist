@@ -1,14 +1,14 @@
 title:MercyVert Wishlist
 description: personal GOD ROLLS
 
-// Wild Style (Adept) - utility blind (pve,god-pve)
-//notes: tags:pve,god-pve
+// Wild Style (Adept) - utility blind (god-pve,pve)
+//notes: utility blind tags:god-pve,pve
 dimwishlist:item=959037361&perks=3525010810,3032599245,1523832109,4293542123
 dimwishlist:item=959037361&perks=3525010810,3032599245,1523832109,1546637391
 
 
 // Wild Style (Adept) - dmg dps (god-pve,pve)
-//notes: tags:god-pve,pve
+//notes: dmg dps tags:god-pve,pve
 dimwishlist:item=959037361&perks=981914802,3301904089,1523832109,1546637391
 dimwishlist:item=959037361&perks=981914802,3301904089,1523832109,4293542123
 dimwishlist:item=959037361&perks=981914802,3301904089,1523832109,4049631843
